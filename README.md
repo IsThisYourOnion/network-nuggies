@@ -1,0 +1,1 @@
+<iframe src="https://giphy.com/embed/bYB0rwy8SNZjq" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-squarepants-nervous-bYB0rwy8SNZjq">via GIPHY</a></p>
