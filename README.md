@@ -4,6 +4,6 @@
 
 This repo is a space for me to practice translating deep learning research into working code. It includes:
 
-Summaries of influential papers
-My implementations (using [Pytorch mostly])
-Notes on challenges and insights gained
+* Summaries of influential papers
+* My implementations (using Pytorch mostly)
+* Notes on challenges and insights gained
